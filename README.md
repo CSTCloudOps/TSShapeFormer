@@ -1,7 +1,8 @@
 
-# Get Started
+# TSShapeFormer
+TSShapeFormer: A Unified Framework for Complex Shape Anomaly Detection in Time Series
 
-## Installation
+## Quick Start
 
 ### Prerequisites (environment manager like conda, pipenv or poetry is recommended)
 
